@@ -6,6 +6,7 @@
 What problem does your project solve?
 -------
    Instead of the user logging into your main investment application/ website to view or check your stocks, this will allow you easy access to view their investments. Without risking your personal information.
+   
 Who has this problem?
 -------
    Anyone who has invested in stocks and bitcoin and does not like logging in to the main site to check progress.
