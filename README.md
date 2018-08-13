@@ -5,28 +5,28 @@
 
 What problem does your project solve?
 -------
-      Instead of the user logging into your main investment application/ website to view or check your stocks, this will allow     you easy access to view their investments. Without risking your personal information.
+   Instead of the user logging into your main investment application/ website to view or check your stocks, this will allow you easy access to view their investments. Without risking your personal information.
 Who has this problem?
 -------
-      Anyone who has invested in stocks and bitcoin and does not like logging in to the main site to check progress.
+   Anyone who has invested in stocks and bitcoin and does not like logging in to the main site to check progress.
 
 How will your project solve this problem?
 -------
-       Allow users to see real-time data without risking their personal information. This will also have the ability to search    for a new investment opportunity. 
+   Allow users to see real-time data without risking their personal information. This will also have the ability to search    for a new investment opportunity. 
 
 What inputs does it need?
 -------
-      The user will be able to register and log in create a list of stocks, with the function to add, remove and delete. 
+   The user will be able to register and log in create a list of stocks, with the function to add, remove and delete. 
 
 What outputs does it produce?
 -------
-      The ability to view, remove and edit and update their list.
+   The ability to view, remove and edit and update their list.
 
 What technologies do you plan to use?
 -------
-      I plan on using, Vue and VueX, Vue-router, firebase-database, with JWT.
+   I plan on using, Vue and VueX, Vue-router, firebase-database, with JWT.
 
 Prioritized Feature list (Label stretch features with STRETCH)
 -------
-      Notifications on individuality stocks. Create multiple folders for a watch list.
+   Notifications on individuality stocks. Create multiple folders for a watch list.
 
