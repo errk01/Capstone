@@ -3,8 +3,6 @@ import axios from '../../axios-auth.js'
 import globalAxios from 'axios'
 import router from '@/router.js'
 
-// /Users/eriktaylor/Documents/GalvanizeG85/Q4/g85-capstone-submissions/stock/src/router.js
-
 export default {
   state: {
     idToken: null,
@@ -36,7 +34,7 @@ export default {
     },
     register ({ commit, dispatch }, authData) {
       axios
-        .post('/signupNewUser?key=AIzaSyDffWMDnpr9_NQRgw3tCTE0nibK0mkELjc', {
+        .post('/signupNewUser, {
           firstName: authData.firstName,
           lastName: authData.lastName,
           email: authData.email,
@@ -76,7 +74,7 @@ export default {
     },
 
     login ({ commit, dispatch }, authData) {
-      axios.post('/verifyPassword?key=AIzaSyDffWMDnpr9_NQRgw3tCTE0nibK0mkELjc', {
+      axios.post('/verifyPassword, {
         email: authData.email,
         password: authData.password,
         returnSecureToken: true
